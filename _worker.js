@@ -3245,6 +3245,23 @@ var targetUrls = [
   "https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml",
   // 可以添加明文v2ray分享链接的订阅或base64订阅链接
   "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+	"https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/1/config.json",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/hysteria/1/config.json",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/hysteria2/1/config.json",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/juicity/1/config.json",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/juicity/1/config.json",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/mieru/1/config.json",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/mieru/1/config.json",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/1/config.json",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/1/config.json",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/1/config.json",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/singbox/1/config.json",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/shadowquic/1/client.yaml",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/shadowquic/1/client.yaml",
+  "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/1/config.json",
+  "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/naiveproxy/1/config.json",
   "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
 ];
 async function processUrls(targetUrls2) {
